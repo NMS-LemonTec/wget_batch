@@ -12,12 +12,12 @@ apt install wget -y
 (If you are CentOS or RHEL sys, please use yum instead. This script can be used at any systems including Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu and etc...)
 
 ```
-chmod -x ./wget_batch.sh
+chmod -x ./wget_batch_en.sh
 ```
 
 
 ```
-./wget_batch.sh
+./wget_batch_en.sh
 ```
 
 # 中文文档
@@ -33,10 +33,10 @@ apt install wget -y
 (如果你是CentOS或RHEL系统，请使用yum代替安装wget。本脚本可以运行在任何Linux系统，包括Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu等等......)
 
 ```
-chmod -x ./wget_batch.sh
+chmod -x ./wget_batch_zh.sh
 ```
 
 
 ```
-./wget_batch.sh
+./wget_batch_zh.sh
 ```
