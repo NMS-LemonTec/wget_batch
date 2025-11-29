@@ -12,7 +12,7 @@ apt install curl -y
 (If you are CentOS or RHEL sys, please use yum instead. This script can be used at any systems including Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu and etc...)
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/blob/main/wget_batch_en.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs/heads/main/wget_batch_en.sh)
 ```
 
 
