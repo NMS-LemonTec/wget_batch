@@ -3,7 +3,6 @@
 # Batch wget script
 # One per line, end with a blank line
 # By NMS-LemonTec
-# https://github.com/NMS-LemonTec/wget_batch/
 
 TMP_FILE=$(mktemp)   # Temp file to save the link(s).
 
