@@ -3,7 +3,7 @@
 # 批量 wget 下载脚本
 # 运行后可以逐行输入下载链接，输入空行结束输入
 # By NMS-LemonTec
-# https://github.com/NMS-LemonTec/wget_batch/
+
 
 TMP_FILE=$(mktemp)   # 临时文件存储链接
 
