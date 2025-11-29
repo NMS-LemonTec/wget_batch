@@ -29,5 +29,5 @@ apt install curl -y
 (如果你是CentOS或RHEL系统，请使用yum代替安装wget。本脚本可以运行在任何Linux系统，包括Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu等等......)
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs/heads/main/wget_batch_en.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs/heads/main/wget_batch_zh.sh)
 ```
