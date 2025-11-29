@@ -16,10 +16,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs
 ```
 
 
-```
-./wget_batch_en.sh
-```
-
 # 中文文档
 # wget_batch
 使用wget按照顺序批量下载文件。支持断点续传或中途停止任务。
@@ -28,16 +24,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs
 ## Usage
 ```
 apt update
-apt install wget -y
-wget https://github.com/NMS-LemonTec/wget_batch/blob/main/wget_batch_zh.sh
+apt install curl -y
 ```
 (如果你是CentOS或RHEL系统，请使用yum代替安装wget。本脚本可以运行在任何Linux系统，包括Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu等等......)
 
 ```
-chmod +x ./wget_batch_zh.sh
-```
-
-
-```
-./wget_batch_zh.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/refs/heads/main/wget_batch_en.sh)
 ```
