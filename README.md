@@ -7,13 +7,12 @@ It will automatically download the link you've input and save as the origin name
 
 ```
 apt update
-apt install wget -y
-wget https://github.com/NMS-LemonTec/wget_batch/blob/main/wget_batch_en.sh
+apt install curl -y
 ```
 (If you are CentOS or RHEL sys, please use yum instead. This script can be used at any systems including Debian, CentOS, RedHat, OracleLinux, OpenSUSE, Alpine3.x, Ubuntu and etc...)
 
 ```
-chmod +x ./wget_batch_en.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/NMS-LemonTec/wget_batch/blob/main/wget_batch_en.sh)
 ```
 
 
